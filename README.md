@@ -1,10 +1,12 @@
-### Hi there 👋
+### Olá, eu sou o André Peixoto👋
 
 <div>
   <a href='https://github.com/anndrelipe'></a>
   <img height='180em' src='https://github-readme-stats.vercel.app/api?username=anndrelipe&show_icons=true&bg_color=00000000'>
   <img height='180em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=anndrelipe&layout=compact&bg_color=00000000'>
 </div>
+
+## Tecnologias que eu uso e/ou estudo:
 
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
