@@ -1,6 +1,13 @@
-### Olá, eu sou o André Peixoto👋
+## Olá, eu sou o André Peixoto👋
+### Aprendendo desenvolvimento web Full Stack com ênfase em Back-End.
+<br>
+<img align="center" alt="wallpaper" src="https://i.pinimg.com/originals/b8/9d/59/b89d59a4ddde3d6ce01185904089db4b.jpg"/>
+<br>
+<hr>
 
-<div style="display: inline_block">
+### Entre em contato,
+
+<div style="display: flex, align-itens:center, justify-content: center" >
   <a href="https://www.linkedin.com/in/andr%C3%A9-lima-peixoto-592567297/">
     <img align="center" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
